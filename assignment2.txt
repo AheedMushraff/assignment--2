@@ -1,0 +1,116 @@
+basic python syntax
+ >basic
+    *Black slash: continuation ex; print("hello\python")
+    *tiple quote:("       ")
+    *string inside the quatation
+        *print("hello world")
+>escape squence of  string;
+  *print("hello \t python")
+    o/p;hello python
+  *print("hello \n python")
+    o/p: hello
+         python
+variable: which holds data
+python variable:
+   *variable means linking of data to a name'
+   *a/c to data type ,the interpreter reverse the memory space
+   *variable refers to memory location that context data
+ruler to define variable
+*keyword cannot used as a variable "if","def"and "for"
+*variable can contains (upper or lower case)
+   >a=10 =true
+>10a=20=not a variable
+>a10=20= variable
+>_10=6=its true
+
+
+assignment statements
+x=y=z=10
+x=10
+y=10
+y=20
+id(y)    where id= address of ram
+
+python operators
+
+Arithmetic operators
+  operators
+  **------power
+  *-------multiplication
+  /-------division
+  %-------modulus
+  +-------add
+  --------sub
+ //-------floor
+
+comparison operators
+==------equal
+<-------less than
+>-------greater than
+<=------less than equal to
+>=-------greater than equal to
+!=-------not equal
+
+
+assignment operators
+a=b
+c=a*b
+c=a+b
+c=a-b
+c=a**b
+
+
+
+bitwise operators
+|----or
+&----and
+~----binary one
+^----XOR
+<<---left shift
+>>----right shift
+
+
+
+logical operators
+OR
+AND
+NOT
+
+
+OR
+   t-true,f-flase
+t or t =t
+t or f =t
+f or t =t
+f or f =f
+
+AND
+ t & f=f
+ t & t=f
+ t & f=f
+ t & t=t
+not
+change in bitwise
+
+
+
+membership operators ----weather exist or not
+
+IN[]=str1="python programming"
+a in str1'
+true'
+
+
+identify operators
+1)        2)a is b true
+a=10        x=1.5
+b=10        y=1.5
+a==b        x==y
+true         x is y flase
+
+
+
+
+
+
+
